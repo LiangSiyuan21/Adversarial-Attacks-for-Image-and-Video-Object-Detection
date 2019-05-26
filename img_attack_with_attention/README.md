@@ -150,3 +150,7 @@ This work builds on many excellent works, which include:
 - [joeybose's pytorch-faster-rcnn](https://github.com/joeybose/simple-faster-rcnn-pytorch) 
 - [kuangliu's SSD](<https://github.com/kuangliu/torchcv>).
 
+
+### Contribution
+- siyuan liang
+
