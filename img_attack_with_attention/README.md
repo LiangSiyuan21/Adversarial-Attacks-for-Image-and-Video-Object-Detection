@@ -1,8 +1,14 @@
 # A Simple and Fast Implementation of Faster R-CNN
 
 ## 1. Introduction
+- This code is the implementation of the paper 'Transferable Adversarial Attacks for Image and Video Object Detection'
+- This paper has been received by IJCAI-19.
 
 ## 2. Performance
+- This method can quickly generate adversarial examples, which is superior to traditional iterative methods.
+![AA](https://ws1.sinaimg.cn/large/006tNc79ly1g3g3ced0xcj31480ac0v3.jpg)
+- This method can generate transferable adversarial examples and can effectively attack both SSD and FR methods.
+![AA](https://ws1.sinaimg.cn/large/006tNc79ly1g3g3l7onijj316s0ectbw.jpg)
 
 ## 3. Install dependencies
 
@@ -150,7 +156,4 @@ This work builds on many excellent works, which include:
 - [joeybose's pytorch-faster-rcnn](https://github.com/joeybose/simple-faster-rcnn-pytorch) 
 - [kuangliu's SSD](<https://github.com/kuangliu/torchcv>).
 
-
-### Contribution
-- siyuan liang
 
