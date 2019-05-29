@@ -1,4 +1,4 @@
-# A Simple and Fast Implementation of Faster R-CNN
+# A Implementation of Transferable Adversarial Attacks for Image and Video Object Detection
 
 ## 1. Introduction
 - This code is the implementation of the paper [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641)
